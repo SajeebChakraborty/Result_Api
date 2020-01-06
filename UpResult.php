@@ -4,7 +4,7 @@
 <title>Result</title>
 	<div class="topnav">
   
-  <a class="active" href="UpResult.php">Result</a>
+  <a class="active" href="https://resultapi.herokuapp.com/UpResult.php">Result</a>
   
 
   <a id="logout" href="https://resultapi.herokuapp.com/Admin.php">Log out</a>
