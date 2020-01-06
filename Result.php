@@ -11,10 +11,10 @@
 <body>
 	<div class="topnav">
 
-  <a class="active" href="Result.php">Result</a>
+  <a class="active" href="https://resultapi.herokuapp.com/Result.php">Result</a>
  
 
-  <a id="logout" href="http://localhost/Harpara_High_School/Student_Login.php">Log out</a>
+  <a id="logout" href="https://resultapi.herokuapp.com/Student_Login.php">Log out</a>
    
 </div>
 	
