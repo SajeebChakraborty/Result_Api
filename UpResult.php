@@ -50,7 +50,7 @@
 				
 
 				
-				window.location = "http://localhost/Harpara_High_School/UPDATEresul.php";
+				window.location = "https://resultapi.herokuapp.com/UPDATEresul.php";
 
 				
 
