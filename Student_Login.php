@@ -47,7 +47,7 @@
 				if(roll =="sudarshan" && pass =="123456789"){
 
 				
-				window.location = "http://localhost/Harpara_High_School/Result.php";
+				window.location = "https://resultapi.herokuapp.com/Result.php";
 
 				}
 				else{
