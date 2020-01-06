@@ -1,0 +1,89 @@
+body{
+	
+}
+#heading{
+
+	text-align: center;
+	color: red;
+
+}
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2; /*Menu color set up */
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;/*remove underline below the link */
+  font-size: 17px;
+}
+
+/* Change the color of links on hover.hover means which menu item is selected */
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Add a color to the current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.topnav a#logout {
+  background-color: red;
+  color: yellow;
+  text-align: right;
+  float: right;
+}
+input[type=number] {
+  width: 20%;
+  padding: 8px 18px;
+  margin: 8px 0;
+  /*box-sizing: border-box;*/
+}
+select {
+  width: 20%;
+  padding: 8px 18px;
+  border: none;
+  border-radius: 2px;
+  background-color: #f1f1f1;
+}
+label{
+
+	padding: 8px 18px;
+
+}
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-size: 14;
+  padding: 12px 26px;
+  text-decoration: none;
+  margin: 20px 8px;
+  cursor: pointer;
+
+}
+fieldset {
+  background-color: ;
+  width: 40%;
+  height: 20%;
+  color: ;
+}
+legend {
+  padding: 2px;
+  color: ;
+  background-color: ;
+}
