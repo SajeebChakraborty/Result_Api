@@ -47,7 +47,7 @@
 				if(roll =="admin" && pass =="admin"){
 
 				
-				window.location = "http://localhost/Harpara_High_School/UpResult.php";
+				window.location = "https://resultapi.herokuapp.com/UpResult.php";
 
 				}
 				else{
