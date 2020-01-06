@@ -7,7 +7,7 @@
   <a class="active" href="UpResult.php">Result</a>
   
 
-  <a id="logout" href="http://localhost/Harpara_High_School/Admin.php">Log out</a>
+  <a id="logout" href="https://resultapi.herokuapp.com/Admin.php">Log out</a>
 </div>
 <CENTER><h1><font color="Red">  Harpara High School</font></h1></CENTER>
 	
